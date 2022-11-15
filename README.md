@@ -1,6 +1,6 @@
-# 💫Educational project s21_math from "School 21"
-##### Implementation of cat and grep utilities
-#
+# Educational project s21_math from "School 21"
+
+
 ### cat Usage
 `cat [OPTION] [FILE]...`
 ### cat Options
