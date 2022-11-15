@@ -1,0 +1,9 @@
+Thompson wrote the first PDP-11 assembly language version to help Lee E. McMahon. analyze the text of the Federalist Notes in order to determine the authorship of individual articles.
+The text editor ed (also created by Thompson) had support for regular expressions, but could not be used for such a large amount of text, so Thompson extracted this code into a separate tool.
+He chose this name because, in ed, the command g / re / p printed all lines that matched the given pattern.
+
+
+
+grep was first included in Version 4 of Unix
+
+
