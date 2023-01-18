@@ -1,4 +1,4 @@
-# Educational project s21_math from "School 21"
+# Educational project SimpleBashUtils from "School 21"
 
 
 ### cat Usage
